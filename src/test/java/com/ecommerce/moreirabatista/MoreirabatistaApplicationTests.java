@@ -1,4 +1,4 @@
-package com.ecommer.moreirabatista;
+package com.ecommerce.moreirabatista;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
