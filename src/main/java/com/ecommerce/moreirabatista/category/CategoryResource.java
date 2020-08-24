@@ -1,4 +1,4 @@
-package com.ecommerce.moreirabatista.categoria;
+package com.ecommerce.moreirabatista.category;
 
 import com.ecommerce.moreirabatista.percistence.CategoryRepository;
 import com.ecommerce.moreirabatista.percistence.model.Category;

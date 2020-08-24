@@ -1,8 +1,6 @@
-package com.ecommerce.moreirabatista.categoria;
+package com.ecommerce.moreirabatista.category;
 
 import org.springframework.lang.NonNull;
-
-import javax.persistence.Column;
 
 public class CategoryRequest {
     @NonNull

@@ -70,9 +70,8 @@ public class SwaggerConfig {
 
     private ApiInfo buildApiInfo() {
         return new ApiInfoBuilder()
-                .title("ecommerceMB - Swagger API Documentation")
+                .title("EcommerceMB - Swagger API Documentation")
                 .description("beck end ecommerce")
-                .contact(new Contact("Maldivas", "", "l-scrum-maldivas@uolinc.com"))
                 .build();
     }
 }
